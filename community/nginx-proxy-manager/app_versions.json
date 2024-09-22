@@ -235,7 +235,7 @@
                                 "schema": {
                                     "type": "int",
                                     "default": 30020,
-                                    "min": 9000,
+                                    "min": 0,
                                     "max": 65535,
                                     "required": true
                                 }
@@ -247,7 +247,7 @@
                                 "schema": {
                                     "type": "int",
                                     "default": 30021,
-                                    "min": 9000,
+                                    "min": 0,
                                     "max": 65535,
                                     "required": true
                                 }
@@ -259,7 +259,7 @@
                                 "schema": {
                                     "type": "int",
                                     "default": 30022,
-                                    "min": 9000,
+                                    "min": 0,
                                     "max": 65535,
                                     "required": true
                                 }
